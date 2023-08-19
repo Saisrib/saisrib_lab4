@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <personalInformation>
+            <firstName>Ram</firstName>
+            <lastName>P</lastName>
+            <dateOfBirth>1989-05-15</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Software Engineer</position>
+            <salary>80000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>ramp1989@gmail.com</email>
+            <phoneNumber>9891150504</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee>
+        <personalInformation>
+            <firstName>Saisri</firstName>
+            <lastName>B</lastName>
+            <dateOfBirth>1995-12-10</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Marketing Manager</position>
+            <salary>75000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>saisrib2003@gmail.com</email>
+            <phoneNumber>9988776655</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee>
+        <personalInformation>
+            <firstName>Rahul</firstName>
+            <lastName>Raj</lastName>
+            <dateOfBirth>1992-08-22</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Business Analyst</position>
+            <salary>90000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>rahulraj1992@gmail.com</email>
+            <phoneNumber>9878674563</phoneNumber>
+        </contactInformation>
+    </employee>
+</employees>
